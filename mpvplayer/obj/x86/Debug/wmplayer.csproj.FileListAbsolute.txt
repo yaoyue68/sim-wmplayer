@@ -1,0 +1,15 @@
+G:\c#\test\mpvplayer\bin\x86\Debug\mpvplayer.exe.config
+G:\c#\test\mpvplayer\bin\x86\Debug\mpvplayer.exe
+G:\c#\test\mpvplayer\bin\x86\Debug\mpvplayer.pdb
+G:\c#\test\mpvplayer\bin\x86\Debug\Interop.WMPLib.dll
+G:\c#\test\mpvplayer\bin\x86\Debug\AxInterop.WMPLib.dll
+G:\c#\test\mpvplayer\obj\x86\Debug\Interop.WMPLib.dll
+G:\c#\test\mpvplayer\obj\x86\Debug\AxInterop.WMPLib.dll
+G:\c#\test\mpvplayer\obj\x86\Debug\wmplayer.csproj.ResolveComReference.cache
+G:\c#\test\mpvplayer\obj\x86\Debug\mpvplayer.Form1.resources
+G:\c#\test\mpvplayer\obj\x86\Debug\mpvplayer.Properties.Resources.resources
+G:\c#\test\mpvplayer\obj\x86\Debug\wmplayer.csproj.GenerateResource.cache
+G:\c#\test\mpvplayer\obj\x86\Debug\wmplayer.csproj.CoreCompileInputs.cache
+G:\c#\test\mpvplayer\obj\x86\Debug\mpvplayer.exe
+G:\c#\test\mpvplayer\obj\x86\Debug\mpvplayer.pdb
+G:\c#\test\mpvplayer\obj\x86\Debug\wmplayer.csprojAssemblyReference.cache
